@@ -5,7 +5,7 @@
   <title>ACM - NMU Chapter</title>
 </head>
 <body>
-  <h1>Hello World</h1>
+  <h1>NMU ACM</h1>
   <br>
   <p>
     Please submit a merge request for this site at the <a href="http://git.benharris.ch/acm/site">git repo</a>
