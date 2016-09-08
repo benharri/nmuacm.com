@@ -10,5 +10,7 @@
   Please submit a merge request for this site at the <a href="http://git.benharris.ch/acm/site">git repo</a>
   <br>
   We meet Fridays at 4PM in the CS lab.
+  <br>
+  Hi Charles
 </body>
 </html>
