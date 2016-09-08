@@ -11,6 +11,8 @@
   <br>
   We meet Fridays at 4PM in the CS lab.
   <br>
-  Hi Charles
+  Contact <a href="mailto:benharri@nmu.edu">Ben Harris for more info</a>
+  <br>
+  <a href="http://git.benharris.ch/snippets/2">Project Ideas for this semester</a>
 </body>
 </html>
