@@ -7,12 +7,16 @@
 <body>
   <h1>Hello World</h1>
   <br>
-  Please submit a merge request for this site at the <a href="http://git.benharris.ch/acm/site">git repo</a>
+  <p>
+    Please submit a merge request for this site at the <a href="http://git.benharris.ch/acm/site">git repo</a>
+  </p>
   <br>
-  We meet Fridays at 4PM in the CS lab.
+  <p>We meet Fridays at 4PM in the CS lab.</p>
   <br>
-  Contact <a href="mailto:benharri@nmu.edu">Ben Harris for more info</a>
+  <p>Contact <a href="mailto:benharri@nmu.edu">Ben Harris</a> for more info</p>
   <br>
-  <a href="http://git.benharris.ch/snippets/2">Project Ideas for this semester</a>
+  <p>
+    <a href="http://git.benharris.ch/snippets/2">Project Ideas for this semester</a>
+  </p>
 </body>
 </html>
