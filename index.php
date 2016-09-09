@@ -1,3 +1,4 @@
+<?php header("Location: http://willeh.net");die();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
