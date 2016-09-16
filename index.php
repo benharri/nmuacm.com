@@ -17,6 +17,7 @@
     </div>
     <div class="body">
       <p>Please submit a merge request for this site at the <a href="https://git.benharris.ch/acm/site">git repo</a></p>
+      <p>Current project: <a href="https://git.benharris.ch/acm/jsboy">JSBoy</a></p>
       <p>We meet Fridays at 4PM in the CS lab.</p>
       <p>Contact <a href="mailto:benharri@nmu.edu">Ben Harris</a> for more info</p>
       <p><a href="https://git.benharris.ch/snippets/2">Project Ideas for this semester</a>
