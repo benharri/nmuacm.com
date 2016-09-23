@@ -1,0 +1,23 @@
+.nav {
+	background-color: #006848;
+}
+.jumbotron{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.nmu-yellow{
+	color: #ffdd00;
+}
+
+.nmu-green{
+	color: #006848;
+}
+
+a {
+	color: #ffdd00;
+}
+
+.well{
+	background-color: #006848;
+	color: white;
+}
