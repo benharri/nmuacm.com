@@ -21,6 +21,7 @@
       <p>We meet Fridays at 4PM in the CS lab.</p>
       <p>Contact <a href="mailto:benharri@nmu.edu">Ben Harris</a> for more info</p>
       <p><a href="https://git.benharris.ch/snippets/2">Project Ideas for this semester</a>
+      <p><a href="/memes">memiez</a></p>
     </div>
   </div>
 </body>
