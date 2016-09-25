@@ -1,9 +1,17 @@
 .nav {
 	background-color: #006848;
 }
+.navbar-inverse .navbar-nav .active a{
+	color: #ffdd00;
+}
+.navbar-inverse .navbar-brand{
+	color: #ffdd00;
+}
 .jumbotron{
     margin-left: 0px;
     margin-right: 0px;
+    color: #ffdd00;
+    background-color: #666666;
 }
 .nmu-yellow{
 	color: #ffdd00;
