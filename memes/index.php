@@ -8,4 +8,4 @@
   <img src="l2K2hfVS4R1oTA-U2CYNC6kL-WTkALkIjgHbVECIp3M.jpg" alt="hugh">
   <img src="mlrFd8P.jpg" alt="meme6">
 </body>
-<?php include_once "footer.php";
+<?php include_once "../footer.php";
