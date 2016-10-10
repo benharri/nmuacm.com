@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Memiez</title>
-</head>
+<?php include_once "../header.php"; ?>
 <body>
+<?php include_once "../nav.html";?>
   <img src="8050e2aa9c9b41aba06cb19763a3e06e.png" alt="meme1">
   <img src="9xYJDBP.jpg" alt="meme2">
   <img src="cbIstsV.jpg" alt="meme3">
@@ -13,4 +9,4 @@
   <img src="mlrFd8P.jpg" alt="meme6">
   <img src="d6b59c49584b4fd4be88bf7ec3f9846f.jpg" alt="beemovie">
 </body>
-</html>
+<?php include_once "../footer.php";
