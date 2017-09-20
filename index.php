@@ -34,7 +34,7 @@ include_once "header.php";
             <h2>Users</h2>
 <?php foreach (array_diff(scandir("/home"), ['.', '..']) as $user) {
     if (!is_dir("/home/$user/acm_pub")) continue;
-    echo "<div class=\"list-group\"><a class=\"list-group-item\" href=\"~$user\"><h4 class=\"list-group-item-heading\">~$user</h4></a></div><br>\n";
+    echo "<div class=\"list-group\"><a class=\"list-group-item\" href=\"~$user/\"><h4 class=\"list-group-item-heading\">~$user</h4></a></div><br>\n";
 }
 ?>
         </div>
