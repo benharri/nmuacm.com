@@ -27,9 +27,16 @@ include_once "header.php";
                     <h2>More Info</h2>
                     <div class="well">Please submit a merge request for this site at the
                     <a href="https://gitlab.com/nmuacm/nmuacm.com">git repo</a></div>
-                    <div class="well">Contact <a href="mailto:admin@nmuacm.com">Ben Harris</a> for more info</div>
+                    <div class="well">Contact <a href="mailto:prez@nmuacm.com">Christian MacDonald</a> for more info</div>
                 </div>
             </div>
+            <hr>
+            <h2>Users</h2>
+<?php foreach (array_diff(scandir("/home"), ['.', '..']) as $user) {
+    if (!is_dir("/home/$user/acm_pub")) continue;
+    echo "<div class=\"list-group\"><a class=\"list-group-item\" href=\"~$user\"><h4 class=\"list-group-item-heading\">~$user</h4></a></div><br>\n";
+}
+?>
         </div>
     </body>
 <?php include_once "footer.php";
