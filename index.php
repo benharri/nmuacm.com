@@ -27,7 +27,7 @@ include_once "header.php";
                     <h2>More Info</h2>
                     <div class="well">Please submit a merge request for this site at the
                     <a href="https://gitlab.com/nmuacm/nmuacm.com">git repo</a></div>
-                    <div class="well">Contact <a href="mailto:prez@nmuacm.com">Christian MacDonald</a> for more info</div>
+                    <div class="well">Contact <a href="mailto:cmacdona@nmuacm.com">Christian MacDonald</a> for more info</div>
                 </div>
             </div>
             <hr>
